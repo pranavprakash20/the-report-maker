@@ -1,6 +1,5 @@
 # the-report-maker
-Python
-HTML5
+
 A simple yet powerful Python script that transforms your test automation results into beautiful, professional HTML reports with just a few lines of input.
 
 🌟 Features
