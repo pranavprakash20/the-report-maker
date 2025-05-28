@@ -2,7 +2,7 @@
 
 A simple yet powerful Python script that transforms your test automation results into beautiful, professional HTML reports with just a few lines of input.
 
-🌟 Features <br>
+🌟 Features <br><br>
 Transforms plain text test results into visually appealing HTML reports
 
 Color-coded results (green for passes, red for failures)
@@ -13,16 +13,15 @@ Lightweight with no external dependencies
 
 Fully customizable HTML template
 
-📥 Installation
+📥 Installation<br><br>
 Clone this repository:
 
-bash
 git clone https://github.com/pranavprakash20/the-report-maker.git
 Navigate to the project directory:
-
-bash
 cd test-report-generator
-� Usage
+<br><br>
+
+� Usage<br><br>
 Basic Usage
 Prepare your test results in the required format:
 
