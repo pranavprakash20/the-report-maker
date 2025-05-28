@@ -14,9 +14,7 @@ def parse_test_results (file_path):
             line = line.strip()
             if line:
                 try:
-                    # test_name, status = map(str.strip, line.split(' '))
-                    test_name = line.split("    ")[0]
-                    status = line.split(" ")[-1]
+                    test_name, status = map(str.strip, line.split(':'))
                     test_results.append({
                         'name': test_name,
                         'status': status.lower(),
