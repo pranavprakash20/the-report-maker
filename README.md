@@ -2,7 +2,7 @@
 
 A simple yet powerful Python script that transforms your test automation results into beautiful, professional HTML reports with just a few lines of input.
 
-🌟 Features \n
+🌟 Features <br>
 Transforms plain text test results into visually appealing HTML reports
 
 Color-coded results (green for passes, red for failures)
